@@ -4,6 +4,7 @@ A SonoranCAD plugin that works with my FivePD plugin to automatically send accep
 Drag and drop folder into resources and it will install in proper location
 
 Open your server.cfg and add the line
+
 add_ace builtin.everyone command.fivepdcad allow
 
 Dependancies;
